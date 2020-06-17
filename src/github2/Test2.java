@@ -7,6 +7,7 @@ public class Test2 {
 
 		System.out.println("zzz");
 		System.out.println("aaa");
+		System.out.println("マキシマム★えいたそ");
 	}
 
 }
